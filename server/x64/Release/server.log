@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\mayan\source\repos\server\main.cpp(31,23): error C3861: 'htones': identifier not found
+C:\Users\mayan\source\repos\server\main.cpp(33,24): error C3861: '_T': identifier not found
+C:\Users\mayan\source\repos\server\main.cpp(34,11): error C2065: 'setting': undeclared identifier
+C:\Users\mayan\source\repos\server\main.cpp(34,19): error C2146: syntax error: missing ';' before identifier 'address'
+C:\Users\mayan\source\repos\server\main.cpp(34,19): error C2065: 'address': undeclared identifier
+C:\Users\mayan\source\repos\server\main.cpp(34,27): error C2146: syntax error: missing ';' before identifier 'structure'
+C:\Users\mayan\source\repos\server\main.cpp(34,27): error C2065: 'structure': undeclared identifier
+C:\Users\mayan\source\repos\server\main.cpp(34,37): error C2146: syntax error: missing ';' before identifier 'failed'
+C:\Users\mayan\source\repos\server\main.cpp(34,37): error C2065: 'failed': undeclared identifier
+C:\Users\mayan\source\repos\server\main.cpp(34,47): error C2563: mismatch in formal parameter list
+C:\Users\mayan\source\repos\server\main.cpp(34,47): error C2568: '<<': unable to resolve function overload
+  C:\Users\mayan\source\repos\server\main.cpp(34,47):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  
